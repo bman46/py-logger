@@ -2,7 +2,7 @@
 Python keylogger used to be used as a coding workshop of PSU CCSO
 
 # Usage
-Start with:
+Start the keylogger with:
 ```bash
 python3 ./keylogger.py -o keys.txt -i 5
 ```
